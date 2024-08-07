@@ -1,0 +1,33 @@
+@media (max-width:992px) {
+    .main-content{
+        margin-top: 0 !important;
+    }
+    .whole-scroll{
+        overflow: scroll !important;
+        height: 100%;
+    }
+   
+}
+
+@media (max-width:576px) {
+    .left-content h1{
+        font-size: 50px !important;
+    }
+   .main-content h1{
+    font-size: 45px !important;
+   }
+   header{
+    padding: 16px 30px;
+   }
+   .quantum-leap-info h2{
+    font-size: 45px !important;
+   }
+   .mind-gap-info h2{
+    font-size: 45px !important;
+   }
+   .blockchain-info h2{
+    font-size: 50px !important;
+   }
+   
+   
+}
